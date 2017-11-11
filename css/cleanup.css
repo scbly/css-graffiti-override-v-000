@@ -13,6 +13,6 @@
 div#wall div.parent div#tag-5.slick {
   display: none;
 }
-div#wall div:nth-child(6) div.parent div:last-child div#tag-6 {
+body div#wall div.parent div:last-child div#tag-6 {
   display: none;
 }
