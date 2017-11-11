@@ -1,6 +1,6 @@
 #wall .tag-1 {
   display: none;
 }
-.tag-1 #tag-2 {
+#wall > id {
   display: none;
 }
